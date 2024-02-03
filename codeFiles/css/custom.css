@@ -1,0 +1,13 @@
+.CustomRadius {
+  border-radius: 50rem 0px 0px 20rem !important;
+}
+.ColorWhite {
+  color: #fff;
+}
+.textAreaHeight {
+  height: 300px;
+}
+.overflowCss {
+    max-height:500px;
+    overflow:scroll;
+}
